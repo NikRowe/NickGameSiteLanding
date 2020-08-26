@@ -11,11 +11,11 @@ import Home from "./Pages/Home"
 import Page2 from "./Pages/Page2"
 
 // R-SUITE //
-import 'rsuite/lib/styles/themes/dark/index.less';
+// import 'rsuite/lib/styles/themes/dark/index.less';
 /** import default css */
 // import 'rsuite/dist/styles/rsuite-default.css';
 /** import dark css */
-// import 'rsuite/dist/styles/rsuite-dark.css';
+import 'rsuite/dist/styles/rsuite-dark.css';
 
 
 function App() {
