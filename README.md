@@ -1,22 +1,4 @@
-# create-react-app
+A Nick game site landing page re-creation. 
+Original Sample here: https://www.nick.com/games
 
-## How to use
-
-Download the example:
-
-```
-curl https://codeload.github.com/rsuite/rsuite/tar.gz/master | tar -xz --strip=2 rsuite-master/examples/create-react-app
-cd create-react-app
-```
-
-Install it and run:
-
-```
-npm install
-npm run start
-# or
-yarn
-yarn start
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Built with React - 1st time using ReactSuite to see how quickly I could get a Nav & Sidebar up and running as sidebar navs always give me trouble. 
